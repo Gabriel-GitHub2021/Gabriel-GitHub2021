@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gabriel-GitHub2021
+- 👋 Hi, I’m @Gabriel
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
